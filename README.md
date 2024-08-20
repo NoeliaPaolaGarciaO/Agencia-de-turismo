@@ -2,4 +2,4 @@
 
 ## Demo
 
-<img src="" />
+<img src="assets/images/plantilla.jpg" />
